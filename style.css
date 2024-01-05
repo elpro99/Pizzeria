@@ -1,7 +1,6 @@
 body{
-	background-image:url("/imagesBg.jpg");
-	background-size :cover;
-	background-repeat: no-repeat;
+	background-repeat:url("imagesBg.jpg");
+	
 }
 
 .topnav {
