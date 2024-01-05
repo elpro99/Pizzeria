@@ -1,5 +1,7 @@
 body{
-	background-image: url("https://www.freepik.es/fotos-premium/fondo-negro-3d-abstracto-fondo-gris-texturas-imagen-fondo-oscuro-3d_49296717.htm");
+	background-image: url("imagesBg.jpg");
+	background-size :cover;
+	background-repeat: no-repeat;
 	
 }
 
